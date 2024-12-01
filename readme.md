@@ -2,6 +2,8 @@
 
 A simple, responsive JavaScript calculator that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
+![JavaScript Calculator](./images/calculator.png)
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
